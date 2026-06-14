@@ -1,4 +1,4 @@
-# Ralph Andrei Masangkay
+# Hi, I'm Ralph Andrei 👋
 
 CS + Data Science · FEU Institute of Technology · Metro Manila, PH
 
