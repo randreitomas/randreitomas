@@ -50,13 +50,6 @@ CS + Data Science · FEU Institute of Technology · Metro Manila, PH
 
 ---
 
-## GitHub Stats
-
-![Ralph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=randreitomas&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=randreitomas&layout=compact&hide_border=true)
-
----
-
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/randreitomas) · [Facebook](https://facebook.com/r.andreitomas) · [Portfolio](https://ralphandrei-studio.vercel.app) · r.andreitomas@gmail.com
+[LinkedIn](https://linkedin.com/in/randreitomas) · [Facebook](https://facebook.com/r.andreitomas) · r.andreitomas@gmail.com
