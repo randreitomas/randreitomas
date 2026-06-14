@@ -4,8 +4,7 @@ CS + Data Science · FEU Institute of Technology · Metro Manila, PH
 
 3rd-year CS student building AI-powered products and exploring what happens when data science meets real-world business problems.
 
-**AWS AI & ML Scholar** — Udacity
-**Machine Learning Intern** — FlyRank AI
+**AWS AI & ML Scholar** — Udacity | **Machine Learning Intern** — FlyRank AI
 
 ---
 
