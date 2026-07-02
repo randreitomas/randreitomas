@@ -1,4 +1,4 @@
-# Hi, I'm Ralph Andrei
+# Hi, I'm Ralph Andrei 👋🏼
 
 **Computer Science (Data Science) Student** @ FEU Institute of Technology
 
