@@ -76,12 +76,12 @@ A tourism demand forecasting and decision-support system using SARIMAX to assist
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=randreitomas&show_icons=true&theme=transparent&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randreitomas&layout=compact&theme=transparent&hide_border=true" height="170">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=transparent&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=randreitomas&theme=transparent&hide_border=true">
 </p>
 
 ---
