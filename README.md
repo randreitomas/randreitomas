@@ -1,6 +1,4 @@
-<div align="center">
-
-# Ralph Andrei
+# Hi, I'm Ralph Andrei 👋
 
 **Computer Science Student (Data Science)** · FEU Institute of Technology
 📍 Metro Manila, Philippines
@@ -11,11 +9,9 @@ I build AI-powered products that turn data into decisions — spanning machine l
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:r.andreitomas@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/r.andreitomas)
 
-</div>
-
 ---
 
-## About Me
+## 🙋 About Me
 
 - 🎓 3rd-year Computer Science student, specializing in Data Science
 - 🧠 AWS AI & ML Scholar (Udacity)
@@ -25,7 +21,7 @@ I build AI-powered products that turn data into decisions — spanning machine l
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages & Frontend**
 
@@ -53,7 +49,7 @@ I build AI-powered products that turn data into decisions — spanning machine l
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🎟️ Tabitayo
 QR-powered event seat finder and attendee management platform built for Philippine events.
@@ -77,7 +73,7 @@ Tourism demand forecasting and decision-support system, developed as an undergra
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -90,9 +86,19 @@ Tourism demand forecasting and decision-support system, developed as an undergra
 
 ---
 
-## Let's Connect
+## 📊 Development Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/randreitomas/randreitomas/main/github-metrics.svg" />
+</p>
+
+---
+
+## 🤝 Let's Connect
 
 I'm always open to conversations about AI products, data science, and startup building.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/randreitomas)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:r.andreitomas@gmail.com)
+
+> *"Building AI products that solve real problems—not just demos."*
