@@ -92,6 +92,12 @@ A tourism demand forecasting and decision-support system using SARIMAX to assist
 
 ---
 
+## 📊 Development Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/randreitomas/randreitomas/main/github-metrics.svg" />
+</p>
+
 ## 🌱 Currently Learning
 
 - AI Agents & Agentic Workflows
