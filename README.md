@@ -1,9 +1,3 @@
-# Hi, I'm Ralph Andrei 👋
-
----
-
-## 📊 Development Metrics
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/randreitomas/randreitomas/main/github-metrics.svg" />
 </p>
