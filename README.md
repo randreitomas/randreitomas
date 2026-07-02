@@ -1,6 +1,7 @@
 # Hi, I'm Ralph Andrei
 
-**Computer Science (Data Science) Student** @ FEU Institute of Technology  
+**Computer Science (Data Science) Student** @ FEU Institute of Technology
+
 **AWS AI & ML Scholar** • **Machine Learning Intern @ FlyRank AI**  
 
 📍 Metro Manila, Philippines
