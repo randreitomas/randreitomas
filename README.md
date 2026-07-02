@@ -187,5 +187,3 @@ A tourism demand forecasting and decision-support system using SARIMAX to help t
 <p align="center">
   <strong>Building AI products that solve real problems—not just demos.</strong>
 </p>
-
-CAn I have box wihtin a box, in the left is the name and everything, tables etc, then on the right the techstack
