@@ -8,17 +8,6 @@ I'm a third-year Computer Science student specializing in Data Science who enjoy
 
 ---
 
-## Featured Work
-
-| Project | Description | Live Demo |
-|----------|-------------|-----------|
-| **Tabitayo** | QR-powered event management and seat finder platform for Philippine events. | https://www.tabitayo.online/ |
-| **Tamsi AI** | AI-powered platform for intelligent workflows and automation. | https://tamsi-ai-web.vercel.app/ |
-| **Bob the Briefr** | AI assistant for meeting notes, document summaries, and brief generation. | https://bobthebriefr.vercel.app/ |
-| **XoCompass** | Tourism demand forecasting and decision-support system using SARIMAX. | Undergraduate Thesis |
-
----
-
 ## Tech Stack
 
 ### Languages
