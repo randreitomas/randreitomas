@@ -88,7 +88,7 @@ A tourism demand forecasting and decision-support system using SARIMAX to assist
 
 ## 📈 Contribution Graph
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/randreitomas/randreitomas/output/github-contribution-grid-snake.svg)
 
 ---
 
