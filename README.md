@@ -2,6 +2,7 @@
 
 **Computer Science (Data Science) Student** @ FEU Institute of Technology  
 **AWS AI & ML Scholar** • **Machine Learning Intern @ FlyRank AI**  
+
 📍 Metro Manila, Philippines
 
 I'm a third-year Computer Science student specializing in Data Science who enjoys building AI-powered products that solve real business problems. My interests span machine learning, forecasting, SaaS development, and agentic AI systems, with a focus on turning research into practical software.
