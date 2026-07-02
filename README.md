@@ -1,23 +1,12 @@
 # Hi, I'm Ralph Andrei 👋
 
-**Computer Science Student (Data Science)** · FEU Institute of Technology
-📍 Metro Manila, Philippines
-
-I build AI-powered products that turn data into decisions — spanning machine learning, forecasting, and multi-agent systems that bridge research and real-world business applications.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/randreitomas)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:r.andreitomas@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/r.andreitomas)
-
 ---
 
-## 🙋 About Me
+## 📊 Development Metrics
 
-- 🎓 3rd-year Computer Science student, specializing in Data Science
-- 🧠 AWS AI & ML Scholar (Udacity)
-- 💼 Machine Learning Intern @ FlyRank AI
-- 🔭 Currently focused on production-grade LLM applications and agentic workflows
-- 🌱 Learning: MLOps, AWS AI Services, and scalable SaaS architecture
+<p align="center">
+  <img src="https://raw.githubusercontent.com/randreitomas/randreitomas/main/github-metrics.svg" />
+</p>
 
 ---
 
@@ -44,61 +33,3 @@ I build AI-powered products that turn data into decisions — spanning machine l
 ![AWS](https://img.shields.io/badge/AWS_AI_%26_ML-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-AI--Assisted_Dev-000000?style=flat-square)
-
-**Focus Areas:** Time-series forecasting (SARIMAX) · LLM APIs · Multi-agent AI systems · Prompt engineering · AI-assisted software development
-
----
-
-## 🚀 Featured Projects
-
-### 🎟️ Tabitayo
-QR-powered event seat finder and attendee management platform built for Philippine events.
-
-**Stack:** React 19 · FastAPI · PostgreSQL (Neon) · Fuzzy Search
-
-- Instant seat lookup via QR code scan
-- Bulk attendee import from CSV
-- Tiered SaaS pricing model
-- Search optimized for high-volume events
-
----
-
-### 📈 XoCompass
-Tourism demand forecasting and decision-support system, developed as an undergraduate thesis for **KJS International Travel & Tours**.
-
-**Stack:** Python · Pandas · Scikit-learn · SARIMAX
-
-- Forecasts customer demand using statistical time-series modeling
-- Supports data-driven planning decisions for a travel agency client
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=randreitomas&show_icons=true&theme=transparent&hide_border=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randreitomas&layout=compact&theme=transparent&hide_border=true" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=randreitomas&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-## 📊 Development Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/randreitomas/randreitomas/main/github-metrics.svg" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to conversations about AI products, data science, and startup building.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/randreitomas)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:r.andreitomas@gmail.com)
-
-> *"Building AI products that solve real problems—not just demos."*
