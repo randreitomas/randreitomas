@@ -10,13 +10,15 @@ I build AI-powered products at the intersection of data science and full-stack e
 
 ---
 
-## What I'm working on now
+## Featured Projects
 
-**BobtheBriefr** — An AI assistant that transforms meeting recordings and documents into concise, structured briefs. Currently competing in the [IBM AI Builders Challenge (July 2026)](https://ibm.com/ai) with a two-model LangFlow + IBM Granite + IBM Bob architecture as a technical differentiator. Prototype sprint in progress.
+### BobtheBriefr
+
+An AI assistant that transforms meeting recordings and documents into concise, structured briefs. Currently competing in the [IBM AI Builders Challenge (July 2026)](https://ibm.com/ai) with a two-model LangFlow + IBM Granite + IBM Bob architecture as a technical differentiator. Prototype sprint in progress.
+
+**Stack** · `React` `FastAPI` `Python` `LangFlow` `IBM Granite` `LLMs`
 
 ---
-
-## Featured Projects
 
 ### Tabitayo · [tabitayo.online](https://tabitayo.online)
 
@@ -26,27 +28,11 @@ A QR-powered event seat-finder SaaS for student organizations and event teams. O
 
 ---
 
-### XoCompass
-
-Undergraduate thesis built for **KJS International Travel & Tours**. A tourism demand forecasting and decision-support system using SARIMAX to help travel agencies predict customer volume and improve operational planning. Defended May 2026.
-
-**Stack** · `Python` `Pandas` `Scikit-learn` `SARIMAX` `FastAPI` `React` `Neon`
-
----
-
 ### Arbiter
 
 Multi-agent AI security adjudication system with a courtroom-style UI, built solo as frontend developer at the Band of Agents Hackathon (lablab.ai). Multiple AI agents argue, counter-argue, and reach a verdict on security policy decisions.
 
 **Stack** · `React` `TypeScript` `Vite` `Tailwind` `Zustand`
-
----
-
-### BobtheBriefr
-
-AI assistant that transforms meetings and documents into concise, actionable summaries. Earlier prototype that evolved into BriefBuilder AI.
-
-**Stack** · `React` `FastAPI` `Python` `LLMs`
 
 ---
 
