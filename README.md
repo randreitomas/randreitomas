@@ -14,7 +14,7 @@ I build AI-powered products at the intersection of data science and full-stack e
 
 ### BobtheBriefr · [bobthebriefr.vercel.app](https://bobthebriefr.vercel.app/)
 
-An AI assistant that transforms meeting recordings and documents into concise, structured briefs. Currently competing in the [IBM AI Builders Challenge (July 2026)](https://ibm.com/ai) with a two-model LangFlow + IBM Granite + IBM Bob architecture as a technical differentiator. Prototype sprint in progress.
+An AI assistant that transforms meeting recordings and documents into concise, structured briefs. Currently competing in the IBM AI Builders Challenge with a two-model LangFlow + IBM Granite + IBM Bob architecture as a technical differentiator. Prototype sprint in progress.
 
 **Stack** · `React` `FastAPI` `Python` `LangFlow` `IBM Granite` `LLMs`
 
