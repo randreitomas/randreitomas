@@ -28,11 +28,11 @@ A QR-powered event seat-finder SaaS for student organizations and event teams. O
 
 ---
 
-### Arbiter
+### Tamsi · [tamsi-ai.vercel.app](https://tamsi-ai.vercel.app/)
 
-Multi-agent AI security adjudication system with a courtroom-style UI, built solo as frontend developer at the Band of Agents Hackathon (lablab.ai). Multiple AI agents argue, counter-argue, and reach a verdict on security policy decisions.
+An AI academic co-pilot built at the FEU Institute of Technology x OpenAI AI Campus Launch Hackathon. Upload a screenshot of your Grade Report and Tamsi reads it, computes your GWA, and charts it against FEU Tech's Latin honors and scholarship lines, then gives a plain-language read on what's still needed. OAuth-integrated with ChatGPT so it runs on each user's own account, with nothing stored server-side. Built from idea to live app in about a day.
 
-**Stack** · `React` `TypeScript` `Vite` `Tailwind` `Zustand`
+**Repo** · [github.com/randreitomas/tamsi_ai](https://github.com/randreitomas/tamsi_ai)
 
 ---
 
